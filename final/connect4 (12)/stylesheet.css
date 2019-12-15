@@ -1,0 +1,29 @@
+body {
+  background-color: mintcream;
+}
+
+#page{
+  display: inline-block;
+  width: 1200px;
+  margin-left: 30px;
+  margin-top: 10px;
+  text-align: left;
+  padding:20px;
+  background: #444;
+  color:#FFF;
+
+  margin-bottom:10px;
+}
+
+#playerImage {
+  background: #FFF;
+width:100px;
+height:70px;
+color:black;
+font-size: 4em;
+text-align: center;
+line-height: 100px;
+float:left;
+margin-right:10px;
+margin-bottom:10px;
+}
